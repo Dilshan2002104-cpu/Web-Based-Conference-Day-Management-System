@@ -1,0 +1,7 @@
+.speakercard-container {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 20px; /* Space between the cards */
+    margin-top: 35px; /* Space above the container */
+}
